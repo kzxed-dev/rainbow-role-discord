@@ -1,0 +1,7 @@
+{
+	"token" : "TOKEN DU BOT",
+	"ms" : 1,
+	"roleToDisco" : ["LeNomDuRôle"],
+	"prefix" : "!",
+	"allowedUsers" : ["VotreID"]
+  }
